@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      技术人如何搭建自己的技术博客
+title:      技术人如何搭建自己的技术博客呢
 no-post-nav: true
 category: other
 tags: [other]
